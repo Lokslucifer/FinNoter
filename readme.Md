@@ -26,7 +26,7 @@ This application allows you to manage **income**, **expenses**, **payables**, an
 
 ## 📋 Event Balance Sheet Functionality
 
-![Event Balance Sheet](images/event_balancesheet.png)
+![Event Balance Sheet](docs/event_balancesheet.png)
 
 - Displays four columns under "Money Transactions".
 - Add transactions using the **+ button** near each section title.
@@ -42,7 +42,7 @@ This application allows you to manage **income**, **expenses**, **payables**, an
 
 ## 📅 Monthly Balance Sheet Functionality
 
-![Monthly Balance Sheet](images/monthly_balancesheet.png)
+![Monthly Balance Sheet](docs/monthly_balancesheet.png)
 
 - Same transaction layout as the event sheet.
 - Additional Features:
